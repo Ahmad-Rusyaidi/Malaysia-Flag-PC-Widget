@@ -1,0 +1,18 @@
+*{
+	-fx-background-color: red;
+}
+
+.anchor-Pane{
+	-fx-background-color: #223d85;
+}
+
+.anchor-Pane2{
+	-fx-background-color: white;
+}
+.circle-color{
+	-fx-fill: #ffce0a;
+}
+
+.arc-color2{
+	-fx-fill: #223d85;
+}
